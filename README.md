@@ -2,9 +2,7 @@
 <html>
 <head>
   <title>Serveo Tunneling</title>
-  <style>
-    /* Add your custom CSS styles here */
-  </style>
+  
 </head>
 <body>
   <h1>Serveo Tunneling: Effortlessly Create Tunnels for Local Development</h1>
