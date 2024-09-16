@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Serveo Tunneling</title>
+  
   
 </head>
 <body>
@@ -18,9 +18,9 @@
   <h2>Installation</h2>
   <ol>
     <li>Clone this repository:</li>
-    <pre><code>git clone https://github.com/your-username/Serveo-Tunneling.git</code></pre>
+    <pre><code>git clone https://github.com/MaxEdgar/Serveo-.git</code></pre>
     <li>Navigate to the project directory:</li>
-    <pre><code>cd Serveo-Tunneling</code></pre>
+    <pre><code>cd Serveo-</code></pre>
     <li>Install dependencies:</li>
     <pre><code>npm install  # or yarn install</code></pre>
   </ol>
