@@ -25,5 +25,8 @@
     <pre><code>npm install  # or yarn install</code></pre>
   </ol>
 
+  <h3>How To Run</h3>
+  <ol>
+  <pre><code>bash Serveo<code></code>pre>
   </body>
 </html>
