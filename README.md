@@ -27,6 +27,6 @@
 
   <h3>How To Run</h3>
   <ol>
-  <pre><code>bash Serveo<code></code>pre>
+  <pre><code>bash Serveo</code>pre>
   </body>
 </html>
